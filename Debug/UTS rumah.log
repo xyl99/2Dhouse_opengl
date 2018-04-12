@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\xyl99\documents\visual studio 2015\projects\uts rumah\uts rumah\main.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xyl99\documents\visual studio 2015\projects\uts rumah\uts rumah\main.cpp(29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\xyl99\documents\visual studio 2015\projects\uts rumah\uts rumah\main.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xyl99\documents\visual studio 2015\projects\uts rumah\uts rumah\main.cpp(39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\xyl99\documents\visual studio 2015\projects\uts rumah\uts rumah\main.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xyl99\documents\visual studio 2015\projects\uts rumah\uts rumah\main.cpp(301): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  UTS rumah.vcxproj -> C:\Users\XYL99\Documents\Visual Studio 2015\Projects\UTS rumah\Debug\UTS rumah.exe
+  UTS rumah.vcxproj -> C:\Users\XYL99\Documents\Visual Studio 2015\Projects\UTS rumah\Debug\UTS rumah.pdb (Partial PDB)
